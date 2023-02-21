@@ -1,0 +1,36 @@
+body {
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+/* navbar */
+.navbar-nav {
+    margin-right: 0 !important;
+    padding-right: 100px;
+}
+
+.navbar {
+    background-color: #0E144A;
+    color: #fff !important;
+    font-size: 16px;
+}
+
+.nav-item a {
+    color: #fff !important;
+}
+
+.nav-item {
+    padding-left: 10px;
+}
+
+.navbar-brand {
+    color: #fff !important;
+    padding-left: 10px;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+#navbar button {
+    color: #fff !important;
+}
+
