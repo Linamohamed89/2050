@@ -1,0 +1,15 @@
+body {
+    font-family: 'Poppins', sans-serif;
+font-family: 'Raleway', sans-serif;
+}
+
+/*navbar*/
+.mynavbar {
+    background-color: #4741AF;
+}
+.nav-link  {
+    color: #fff;
+}
+.navbar-brand {
+    color: #fff;
+}
