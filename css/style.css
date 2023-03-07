@@ -45,3 +45,30 @@ font-family: 'Raleway', sans-serif;
     color: #6C63FF;
     background-color: #fff;
 }
+
+/*about us */
+
+.text-subtitle {
+color: #6C63FF;
+font-size: 24px;
+font-weight: 700;
+}
+
+.text-title {
+font-size: 48px;
+font-weight: 700;
+}
+
+.text-p {
+font-size: 18px;
+font-weight: 400;
+}
+
+.text-link {
+    text-decoration: none;
+    font-weight: 700;
+}
+
+.about-img {
+    margin-left: -325px;
+}
