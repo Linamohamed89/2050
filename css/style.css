@@ -18,3 +18,24 @@ font-family: 'Raleway', sans-serif;
     font-size: 40px;
     font-weight: 700;
 }
+
+/*banner*/
+.container {
+    max-width: 1200px;
+}
+.banner-title{
+    font-size: 72px;
+    font-weight: 800;
+
+}
+.banner-subtitle {
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.banner-btn {
+    background-color: #6C63FF;
+    padding: 14px 50px;
+    border-radius: 40px;
+    text-decoration: none;
+}
