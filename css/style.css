@@ -31,6 +31,7 @@ font-family: 'Raleway', sans-serif;
 .banner-subtitle {
     font-size: 24px;
     font-weight: 500;
+    
 }
 
 .banner-btn {
@@ -38,4 +39,9 @@ font-family: 'Raleway', sans-serif;
     padding: 14px 50px;
     border-radius: 40px;
     text-decoration: none;
+    color: #fff;
+}
+.banner-btn:hover {
+    color: #6C63FF;
+    background-color: #fff;
 }
