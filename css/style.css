@@ -9,7 +9,12 @@ font-family: 'Raleway', sans-serif;
 }
 .nav-link  {
     color: #fff;
+    font-size: 18px;
+    font-weight: 700;
+    padding: 53px 0;
 }
 .navbar-brand {
     color: #fff;
+    font-size: 40px;
+    font-weight: 700;
 }
