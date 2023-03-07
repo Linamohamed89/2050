@@ -72,3 +72,12 @@ font-weight: 400;
 .about-img {
     margin-left: -325px;
 }
+
+/*service*/
+
+.background-service {
+    background-color: #F3F9FB;
+    border-radius: 50%;
+    width: 624px;
+    height: 624px;
+}
