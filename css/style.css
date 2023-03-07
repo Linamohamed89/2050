@@ -81,3 +81,8 @@ font-weight: 400;
     width: 624px;
     height: 624px;
 }
+.service-icon {
+    background-color: #6C63FF;
+    border-radius: 50%;
+    padding: 20px;
+}
