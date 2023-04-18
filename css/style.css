@@ -99,3 +99,7 @@ font-weight: 400;
 .img-choose {
     margin-left: -115px;
 }
+
+.Product-card{
+    border-bottom: 3px solid #6C63FF;
+}
