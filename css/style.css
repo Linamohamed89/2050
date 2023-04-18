@@ -103,3 +103,9 @@ font-weight: 400;
 .Product-card{
     border-bottom: 3px solid #6C63FF;
 }
+
+.feature-icon {
+    background: #6C63FF;
+    padding: 20px;
+    border-radius: 50%;
+}
